@@ -50,7 +50,11 @@ Proje dosyaları aşağıdaki hiyerarşik yapıda düzenlenmiştir:
 ├── team.html            # Oyuncu kadrosu ve teknik ekip
 ├── statistics.html      # İstatistikler sayfası
 ├── mission-vision.html  # Misyon ve Vizyon sayfası
+
+
 └── announcements.html   # Duyurular ve kampanyalar
+
+```
 
 ## 💻 Kurulum ve Çalıştırma
 
@@ -62,8 +66,11 @@ Proje istemci taraflı (client-side) teknolojiler üzerine kurulu olduğu için 
 
 ## 👤 Yazar
 
-**[Adınız Soyadınız]** Bilişim Sistemleri Mühendisliği Öğrencisi  
+**Cihat Karataş** 231307078 numaralı Bilişim Sistemleri Mühendisliği Öğrencisi  
 Kocaeli Üniversitesi
 
 ---
 *Not: Bu proje eğitim amaçlı hazırlanmış olup, kullanılan görseller ve logolar ilgili kurumların telif haklarına tabi olabilir.*
+
+
+
