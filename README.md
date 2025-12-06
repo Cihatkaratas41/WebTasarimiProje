@@ -28,66 +28,6 @@ Bu web sitesi, kullanıcıların takım hakkında bilgi alabileceği, fikstürü
 * **FontAwesome & Flaticon** (İkon setleri)
 
 ## 📂 Dosya Yapısı
-# 🏀 Boston Celtics - Resmi Web Sitesi Projesi
-
-Bu proje, **Kocaeli Üniversitesi Bilişim Sistemleri Mühendisliği** Bölümü, **TBL303 Web Tasarımı** dersi kapsamında geliştirilmiş bir responsive web sitesi uygulamasıdır. 
-
-Proje, hazır bir HTML5/Bootstrap şablonu temel alınarak, Boston Celtics basketbol takımının kurumsal kimliğine (renkler, logolar, içerik) göre tamamen özelleştirilmiş ve dinamik ön yüz bileşenleriyle zenginleştirilmiştir.
-
-## 🚀 Proje Hakkında
-
-Bu web sitesi, kullanıcıların takım hakkında bilgi alabileceği, fikstürü takip edebileceği, oyuncu kadrosunu inceleyebileceği ve duyurulara ulaşabileceği modern bir arayüz sunar. Mobil uyumluluk (Responsive Design) ön planda tutulmuştur.
-
-### ✨ Temel Özellikler
-
-* **Responsive Tasarım:** Bootstrap altyapısı sayesinde mobil, tablet ve masaüstü cihazlarla tam uyum.
-* **Dinamik Sliderlar:** Ana sayfada oyuncu ve kampanya görselleri için 3D ve standart slider geçişleri.
-* **Geri Sayım Sayacı (Countdown):** Bir sonraki maçın başlama saatine kalan süreyi gösteren dinamik sayaç.
-* **Haber Bandı (News Ticker):** Typewriter efekti ile anlık haber geçişleri.
-* **Modal Yapıları:** Duyurular ve kampanyalar için sayfa yenilenmeden açılan pop-up pencereler.
-* **Fikstür Yönetimi:** Yaklaşan maçların listelendiği kaydırılabilir fikstür alanı.
-* **İletişim Formu:** PHP altyapısı ile simüle edilmiş, validasyon (doğrulama) özellikli iletişim formu.
-* **Google Maps Entegrasyonu:** Konum gösterimi için iframe harita entegrasyonu.
-
-## 🛠 Kullanılan Teknolojiler
-
-* **HTML5 & CSS3**
-* **Bootstrap Framework** (Grid sistemi ve bileşenler için)
-* **JavaScript & jQuery** (DOM manipülasyonu ve animasyonlar için)
-* **PHP** (İletişim formu backend simülasyonu için)
-* **FontAwesome & Flaticon** (İkon setleri)
-
-## 📂 Dosya Yapısı
-# 🏀 Boston Celtics - Resmi Web Sitesi Projesi
-
-Bu proje, **Kocaeli Üniversitesi Bilişim Sistemleri Mühendisliği** Bölümü, **TBL303 Web Tasarımı** dersi kapsamında geliştirilmiş bir responsive web sitesi uygulamasıdır. 
-
-Proje, hazır bir HTML5/Bootstrap şablonu temel alınarak, Boston Celtics basketbol takımının kurumsal kimliğine (renkler, logolar, içerik) göre tamamen özelleştirilmiş ve dinamik ön yüz bileşenleriyle zenginleştirilmiştir.
-
-## 🚀 Proje Hakkında
-
-Bu web sitesi, kullanıcıların takım hakkında bilgi alabileceği, fikstürü takip edebileceği, oyuncu kadrosunu inceleyebileceği ve duyurulara ulaşabileceği modern bir arayüz sunar. Mobil uyumluluk (Responsive Design) ön planda tutulmuştur.
-
-### ✨ Temel Özellikler
-
-* **Responsive Tasarım:** Bootstrap altyapısı sayesinde mobil, tablet ve masaüstü cihazlarla tam uyum.
-* **Dinamik Sliderlar:** Ana sayfada oyuncu ve kampanya görselleri için 3D ve standart slider geçişleri.
-* **Geri Sayım Sayacı (Countdown):** Bir sonraki maçın başlama saatine kalan süreyi gösteren dinamik sayaç.
-* **Haber Bandı (News Ticker):** Typewriter efekti ile anlık haber geçişleri.
-* **Modal Yapıları:** Duyurular ve kampanyalar için sayfa yenilenmeden açılan pop-up pencereler.
-* **Fikstür Yönetimi:** Yaklaşan maçların listelendiği kaydırılabilir fikstür alanı.
-* **İletişim Formu:** PHP altyapısı ile simüle edilmiş, validasyon (doğrulama) özellikli iletişim formu.
-* **Google Maps Entegrasyonu:** Konum gösterimi için iframe harita entegrasyonu.
-
-## 🛠 Kullanılan Teknolojiler
-
-* **HTML5 & CSS3**
-* **Bootstrap Framework** (Grid sistemi ve bileşenler için)
-* **JavaScript & jQuery** (DOM manipülasyonu ve animasyonlar için)
-* **PHP** (İletişim formu backend simülasyonu için)
-* **FontAwesome & Flaticon** (İkon setleri)
-
-## 📂 Dosya Yapısı
 
 Proje dosyaları aşağıdaki hiyerarşik yapıda düzenlenmiştir:
 
