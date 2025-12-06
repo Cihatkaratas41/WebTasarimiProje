@@ -6,7 +6,7 @@ Proje, hazır bir HTML5/Bootstrap şablonu temel alınarak, Boston Celtics baske
 
 ## 🚀 Proje Hakkında
 
-Bu web sitesi, kullanıcıların takım hakkında bilgi alabileceği, fikstürü takip edebileceği, oyuncu kadrosunu inceleyebileceği ve duyurulara ulaşabileceği modern bir arayüz sunar. Mobil uyumluluk (Responsive Design) ön planda tutulmuştur.
+Bu web sitesi, kullanıcıların takım hakkında bilgi alabileceği, fikstürü takip edebileceği, oyuncu kadrosunu inceleyebileceği ve duyurulara ulaşabileceği modern bir arayüz sunar.
 
 ### ✨ Temel Özellikler
 
