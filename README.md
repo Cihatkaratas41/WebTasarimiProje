@@ -67,3 +67,7 @@ Kocaeli Üniversitesi
 
 ---
 *Not: Bu proje eğitim amaçlı hazırlanmış olup, kullanılan görseller ve logolar ilgili kurumların telif haklarına tabi olabilir.*
+
+https://cihatkaratas41.github.io/WebTasarimiProje/index.html
+
+https://celticswebsite.netlify.app/#
